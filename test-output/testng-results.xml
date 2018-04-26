@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression TestSuite" duration-ms="10362" started-at="2018-04-26T06:45:29Z" finished-at="2018-04-26T06:45:39Z">
+    <groups>
+    </groups>
+    <test name="Application Test" duration-ms="10362" started-at="2018-04-26T06:45:29Z" finished-at="2018-04-26T06:45:39Z">
+      <class name="com.automation.framework.TestSuite">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.automation.framework.TestSuite@1b26f7b2]" name="beforeSuite" is-config="true" duration-ms="5336" started-at="2018-04-26T06:45:23Z" finished-at="2018-04-26T06:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.automation.framework.TestSuite@1b26f7b2]" name="startTest" is-config="true" duration-ms="6" started-at="2018-04-26T06:45:29Z" finished-at="2018-04-26T06:45:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="launchapp()[pri:0, instance:com.automation.framework.TestSuite@1b26f7b2]" name="launchapp" is-config="true" duration-ms="10016" started-at="2018-04-26T06:45:29Z" finished-at="2018-04-26T06:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method status="PASS" signature="dummytest()[pri:0, instance:com.automation.framework.TestSuite@1b26f7b2]" name="dummytest" duration-ms="5" started-at="2018-04-26T06:45:39Z" finished-at="2018-04-26T06:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummytest -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.automation.framework.TestSuite@1b26f7b2]" name="endTest" is-config="true" duration-ms="312" started-at="2018-04-26T06:45:39Z" finished-at="2018-04-26T06:45:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.automation.framework.TestSuite@1b26f7b2]" name="afterSuite" is-config="true" duration-ms="1207" started-at="2018-04-26T06:45:39Z" finished-at="2018-04-26T06:45:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.automation.framework.TestSuite -->
+    </test> <!-- Application Test -->
+  </suite> <!-- Regression TestSuite -->
+</testng-results>
